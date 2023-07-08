@@ -1,10 +1,10 @@
 :root {
-	--dark:#374151;
+	--dark:#101820;
 	--darker:#1F2937;
 	--darkest:#EEE;
-	--gray:#6B7280;
+	--gray:#FEE715;
 	--pink:#EC4899;
-	--purple:#8B5Cf6;
+	--purple:#FEE715; /*this is actually yellow*/
 }
 
 * {
